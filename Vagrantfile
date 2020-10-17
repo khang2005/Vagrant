@@ -15,4 +15,5 @@ Vagrant.configure("2") do |config|
     SHELL
   end #ending vm1 define
  # config.vm.syced_folder "data", "/vagrant_data"
-end 
+end
+Hello 
